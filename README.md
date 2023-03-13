@@ -3,7 +3,7 @@
 ## Aim:
 To write C# program to find the eligibility for admission to an engineering course
 
-## Algorithnm:
+## Algorithm:
 
 Step 1 :
 Import the 'System' namespace to use the classes present in the 'System' namespace.
